@@ -1,0 +1,5 @@
+m7_assembly/*
+m7_mb2bins/*
+.ipynb_*/*
+*.png
+*.svg
